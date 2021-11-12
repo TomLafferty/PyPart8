@@ -1,5 +1,5 @@
 import logging
-
+import os
 
 # This function will attempt to open a file and process it.
 # What could go wrong?
